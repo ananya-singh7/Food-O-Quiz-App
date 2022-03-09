@@ -7,11 +7,9 @@ Our Food 'O' Quiz App lets you answer some simple questions and then suggests yo
 
 Simple right? See how it works now!
 
-https://user-images.githubusercontent.com/89238834/156892738-2c047ca5-da3a-43e3-92f1-59bae7a30978.mp4
+https://user-images.githubusercontent.com/89238834/157482532-887d1441-4bf0-44cd-9aa7-2c8afcf7804f.mp4
 
-
-
-https://user-images.githubusercontent.com/89238834/156892784-c3a3b301-5495-4fd7-bc81-e6ddaed69a56.mp4
+https://user-images.githubusercontent.com/89238834/157482543-71c42a79-6646-4d70-8f39-f7e3885777cf.mp4
 
 
 
