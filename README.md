@@ -3,7 +3,8 @@
 Don't know what to order for Dinner? Are you too confused due to the variety of options available online?
 Then worry not, since we are here to make this choice easier for you!
 
-Our Food 'O' Quiz App lets you answer some simple questions and then suggests you something delicious to eat based on your choices! Not only that, it also gives you an option to view the recipe of the dish in case you want to enjoy a hearty home-cooked meal.
+Our Food 'O' Quiz App lets you answer some simple questions and then suggests you something delicious to eat based on your choices! 
+Not only that, it also gives you an option to view the recipe of the dish in case you want to enjoy a hearty home-cooked meal.
 
 Simple right? See how it works now!
 
