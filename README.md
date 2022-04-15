@@ -1,12 +1,9 @@
-# Food 'O' Quiz
+# Food 'O' Quiz App
 
-Don't know what to eat for Dinner? Are you confused due to the variety of options available online?
-Then worry not, since we are here to make this choice easier for you!
+This is a Food Quiz App made using the Flutter Framework.
 
-Our Food 'O' Quiz App lets you answer some simple questions and then suggests you something delicious to eat based on your choices! 
-Not only that, it also gives you an option to view the recipe of the dish in case you want to enjoy a hearty home-cooked meal.
-
-Simple right? See how it works now!
+It suggests the user what to eat depending on the options chosen by them.
+It also gives the user an option to view the recipe of the food item suggested by the app.
 
 https://user-images.githubusercontent.com/89238834/157482532-887d1441-4bf0-44cd-9aa7-2c8afcf7804f.mp4
 
